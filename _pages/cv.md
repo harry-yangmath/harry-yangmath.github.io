@@ -24,7 +24,6 @@ Work experience
 * October 2022 - June 2024: Undergraduate Mathematics Tutor
   * University of California, Davis
   * Duties included: Tutoring first-year calculus, linear algebra, and differential equations
-  * Supervisor: Professor Hub
   
 Skills
 ======
