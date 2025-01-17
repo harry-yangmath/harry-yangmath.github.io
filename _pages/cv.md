@@ -18,11 +18,11 @@ Education
 Work experience
 ======
 * January 2025 - Present: High School Mathematics Teacher
-  * Computer Science High School, Bronx, NY
+  * Computer Science High School, Bronx, New York
   * Duties includes: Teaching Math - AP Calculus, Pre-Calc
 
 * October 2022 - June 2024: Undergraduate Mathematics Tutor
-  * University of California, Davis
+  * University of California, Davis, California
   * Duties included: Tutoring first-year calculus, linear algebra, and differential equations
   
 Skills
