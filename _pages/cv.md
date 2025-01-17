@@ -11,53 +11,28 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ed.D in Mathematics Education, Teachers College-Columbia University, 2029 (expected)
+* MEng in Operations Research and Information Engineering, Cornell Tech - Cornell University, 2025
+* BS in Applied Mathematics, University of California-Davis, 2024
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* January 2025 - Present: High School Mathematics Teacher
+  * Computer Science High School, Bronx, NY
+  * Duties includes: Teaching Math - AP Calculus, Pre-Calc
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
+* October 2022 - June 2024: Undergraduate Mathematics Tutor
+  * University of California, Davis
+  * Duties included: Tutoring first-year calculus, linear algebra, and differential equations
   * Supervisor: Professor Hub
-
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Programming
+  * Python
+  * MANIM
+* LaTeX
 
-Publications
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
   
 Service and leadership
 ======
