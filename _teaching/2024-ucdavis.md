@@ -1,8 +1,8 @@
 ---
 title: "UC Davis Integration Bee 2024"
 collection: teaching
-type: "AP Calculus course"
-permalink: /teaching/2024-sucdavis
+type: "UC Davis Math Club"
+permalink: /teaching/2024-ucdavis
 venue: "University of California, Davis"
 date: 2024-01-18
 location: "Davis, CA"
