@@ -33,6 +33,9 @@ Skills
 * LaTeX
 
   
-Service and leadership
+Outreach
 ======
-* Currently signed in to 43 different slack teams
+* UC Davis Math Club Vice President (2023-2024)
+ * Organized engaging community mathematics outreach events for the general public.
+ * Conducted club meetings
+ * Lead developer of the UC Davis Integration Bee
