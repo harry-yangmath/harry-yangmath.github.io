@@ -1,7 +1,7 @@
 ---
 title: "AP Calculus BC Notes"
 collection: teaching
-type: "AP Math course"
+type: "AP Calculus course"
 permalink: /teaching/2014-spring-teaching-1
 venue: "Computer Science High School"
 date: 2014-01-01
