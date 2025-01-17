@@ -8,7 +8,8 @@ date: 2025-01-01
 location: "New York, NY"
 ---
 
-![BC Logo](images/bc logo.png)
+<img src="images/bc logo.png" alt="BC Logo" style="width: 300px; height: auto;">
+
 <br><br>
 These are my short notes on [AP Calculus BC topics](https://github.com/harry-yangmath/AP_Calc_BC).
 
