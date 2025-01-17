@@ -4,6 +4,6 @@ collection: math videos
 type: "Math Videos"
 ---
 
-![Background Image](images/taylor_bgnd.jpg)
+<img src="images/taylor_bgnd.jpg" alt="Background Image" class="background-image">
 
-This is my YouTube Channel
+[Link to Channel](https://www.youtube.com/@harryyangmath)
