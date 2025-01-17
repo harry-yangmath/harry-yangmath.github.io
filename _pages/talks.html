@@ -5,7 +5,18 @@ permalink: /talks/
 author_profile: true
 ---
 
+<!-- Include the background image -->
+<img src="/images/taylor_bgnd.jpg" alt="Taylor Background" style="width: 100%; height: auto; margin-bottom: 20px;">
 
+<!-- Add the hyperlink to the YouTube channel -->
+<p>
+  Check out the channel here: 
+  <a href="https://www.youtube.com/@harryyangmath" target="_blank" rel="noopener noreferrer">
+    Visit YouTube Channel
+  </a>
+</p>
+
+<!-- Loop through and display the posts -->
 {% for post in site.talks reversed %}
   {% include archive-single-talk.html %}
 {% endfor %}
