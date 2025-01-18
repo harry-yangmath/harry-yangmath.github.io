@@ -3,4 +3,4 @@ title: "Teaching Statement"
 collection: Miscellaneous
 ---
 
-lorem ipsum
+insert stuff here
