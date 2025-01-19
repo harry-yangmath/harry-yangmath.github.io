@@ -7,6 +7,21 @@ author_profile: true
 
 {% include base_path %}
 
+<!-- Section for Current Teaching -->
+<h2>Current Teaching</h2>
 {% for post in site.teaching reversed %}
-  {% include archive-single.html %}
+  {% if post.date >= "2024-06-01" %}
+    {% include archive-single.html %}
+  {% endif %}
+{% endfor %}
+
+<!-- Divider Bar -->
+<hr style="margin: 40px 0; border: 1px solid #ccc;">
+
+<!-- Section for Past Teaching -->
+<h2>Past Teaching</h2>
+{% for post in site.teaching reversed %}
+  {% if post.date < "2024-06-01" %}
+    {% include archive-single.html %}
+  {% endif %}
 {% endfor %}
