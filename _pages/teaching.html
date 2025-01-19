@@ -8,5 +8,13 @@ author_profile: true
 {% include base_path %}
 
 {% for post in site.teaching reversed %}
-  {% include archive-single.html %}
+  <div class="post-item">
+    <!-- Include the title and metadata for the post -->
+    {% include archive-single.html %}
+    
+    <!-- Render the content of the post, which may include images -->
+    <div class="post-content">
+      {{ post.content }}
+    </div>
+  </div>
 {% endfor %}
