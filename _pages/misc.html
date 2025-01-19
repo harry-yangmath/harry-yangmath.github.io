@@ -22,32 +22,65 @@ author_profile: true
   {% include archive-single.html %}
 {% endfor %}
 
+<!-- Section for LaTeX Symbols -->
 <section style="margin-top: 40px;">
   <h2>LaTeX Math Symbols</h2>
   <p>Here is a list of LaTeX math symbols. If I missed any, feel free to let me know!</p>
-  <ul>
-    <li>\( \alpha \)</li>
-    <li>\( \beta \)</li>
-    <li>\( \gamma \)</li>
-    <li>\( \delta \)</li>
-    <li>\( \epsilon \)</li>
-    <li>\( \zeta \)</li>
-    <li>\( \eta \)</li>
-    <li>\( \theta \)</li>
-    <li>\( \int_a^b x^2 \, dx \)</li>
-    <li>\( \lim_{x \to \infty} f(x) \)</li>
-    <li>\( \nabla \)</li>
-    <li>\( \sqrt{a^2 + b^2} \)</li>
-    <li>\( \sum_{n=1}^\infty \frac{1}{n^2} = \frac{\pi^2}{6} \)</li>
-    <li>\( \infty \)</li>
-    <li>\( \pm \)</li>
-    <li>\( \times \)</li>
-    <li>\( \div \)</li>
-    <li>\( \forall \)</li>
-    <li>\( \exists \)</li>
-    <li>\( a \equiv b \pmod{n} \)</li>
-    <li>\( \partial \)</li>
-    <li>\( f'(x) \)</li>
-    <li>\( f''(x) \)</li>
-  </ul>
+  <div class="latex-symbols">
+    <div class="symbol-column">
+      \( \alpha \) <br>
+      \( \beta \) <br>
+      \( \gamma \) <br>
+      \( \delta \) <br>
+      \( \epsilon \) <br>
+      \( \zeta \) <br>
+      \( \eta \) <br>
+      \( \theta \) <br>
+      \( \iota \) <br>
+      \( \kappa \) <br>
+      \( \lambda \) <br>
+      \( \mu \) <br>
+      \( \nu \) <br>
+    </div>
+    <div class="symbol-column">
+      \( \int_a^b x^2 \, dx \) <br>
+      \( \lim_{x \to \infty} f(x) \) <br>
+      \( \nabla \) <br>
+      \( \sqrt{a^2 + b^2} \) <br>
+      \( \sum_{n=1}^\infty \frac{1}{n^2} = \frac{\pi^2}{6} \) <br>
+      \( \infty \) <br>
+      \( \pm \) <br>
+      \( \times \) <br>
+      \( \div \) <br>
+      \( \cdot \) <br>
+      \( \propto \) <br>
+      \( \therefore \) <br>
+    </div>
+    <div class="symbol-column">
+      \( \forall \) <br>
+      \( \exists \) <br>
+      \( a \equiv b \pmod{n} \) <br>
+      \( \partial \) <br>
+      \( f'(x) \) <br>
+      \( f''(x) \) <br>
+      \( \binom{n}{k} \) <br>
+      \( \int_{-\infty}^{\infty} e^{-x^2} \, dx \) <br>
+      \( \mathbb{R}, \mathbb{N}, \mathbb{Z} \) <br>
+      \( \mathcal{L} \) <br>
+      \( \mathscr{F} \) <br>
+      \( \in \) <br>
+      \( \notin \) <br>
+    </div>
+  </div>
 </section>
+
+<style>
+  .latex-symbols {
+    display: flex;
+    justify-content: space-between;
+  }
+  .symbol-column {
+    width: 32%; /* Adjust the width of each column */
+    text-align: center;
+  }
+</style>
