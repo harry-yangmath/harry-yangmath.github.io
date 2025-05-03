@@ -8,14 +8,50 @@ redirect_from:
 ---
 I am a Doctor of Education student in Mathematics Education at Teachers College, Columbia University.
 
-My current research interests include mathematics and technology integration, equity in math education, mathematical animation, and visualization.
+My current research interests include mathematics and technology integration, equity in math education, mathematical animation and visualization.
 
 ---
 ## About Me
 
-<div style="max-width: 100%; text-align: center; margin: 1em 0;">
-  <img src="images/newton house.jpeg" alt="Newton House" style="width: 100%; max-width: 300px; height: auto; border: 1px solid #ccc;">
-  <p style="font-size: 0.9em; color: #555;">Me at Isaac Newton's House (where calculus was invented)</p>
+<style>
+  .about-img-container {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: flex-end;
+    margin-bottom: 1em;
+  }
+
+  .about-img {
+    max-width: 300px;
+    width: 100%;
+    border: 1px solid #ccc;
+    margin-left: 20px;
+  }
+
+  @media (max-width: 768px) {
+    .about-img-container {
+      justify-content: center;
+      margin-left: 0;
+    }
+
+    .about-img {
+      margin-left: 0;
+    }
+  }
+
+  .about-img-caption {
+    font-size: 0.9em;
+    color: #555;
+    text-align: center;
+  }
+</style>
+
+<div class="about-img-container">
+  <div>
+    <img src="images/newton house.jpeg" alt="Newton House" class="about-img">
+    <p class="about-img-caption">Me at Isaac Newton's House (where calculus was invented)</p>
+  </div>
 </div>
 
 Prior to Teachers College, I attended the University of California at Davis and earned my B.S. in Applied Mathematics. 
