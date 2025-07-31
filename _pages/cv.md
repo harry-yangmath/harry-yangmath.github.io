@@ -17,8 +17,8 @@ Education
 Work experience
 ======
 * January 2025 - Present: High School Mathematics Teacher
-  * Compu Sci High, Bronx, New York
-  * Duties includes: Teaching Math - AP Calculus BC, Pre-Calc
+  * Comp Sci High, Bronx, New York
+  * Duties includes: Mathematics Instruction - AP Calculus BC, Pre-Calculus
 
 * October 2022 - June 2024: Undergraduate Mathematics Tutor
   * University of California, Davis, California
