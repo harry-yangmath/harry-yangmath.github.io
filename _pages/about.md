@@ -6,10 +6,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am a Doctor of Education student in Mathematics Education at Teachers College, Columbia University.
-
-My current research interests include mathematics and technology integration, equity in math education, mathematical animation and visualization.
-
+I am a Master of Science student in Mathematics Education at Teachers College, Columbia University.
 ---
 ## About Me
 

@@ -11,14 +11,14 @@ redirect_from:
 
 Education
 ======
-* Ed.D in Mathematics Education, Teachers College-Columbia University (Current Student)
+* MS in Mathematics Education, Teachers College-Columbia University (Current Student)
 * BS in Applied Mathematics, University of California-Davis, 2024
 
 Work experience
 ======
 * January 2025 - Present: High School Mathematics Teacher
   * Comp Sci High, Bronx, New York
-  * Duties includes: Mathematics Instruction - AP Calculus BC, Pre-Calculus
+  * Duties includes: Mathematics Instruction - AP Calculus AB/BC, Pre-Calculus
 
 * October 2022 - June 2024: Undergraduate Mathematics Tutor
   * University of California, Davis, California
@@ -34,7 +34,7 @@ Skills
   
 Outreach
 ======
-* UC Davis Math Club Vice President (2023-2024)
+* UC Davis Math Club Interim and Vice President (2023-2024)
   * Organized engaging community mathematics outreach events for the general public.
   * Conducted club meetings
   * Lead developer of the UC Davis Integration Bee
