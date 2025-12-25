@@ -11,7 +11,7 @@ Education
 ======
 * MS in Mathematics Education, Teachers College-Columbia University (Current Student)
 * BS in Applied Mathematics, University of California-Davis, 2024
-* Graduate Course Work in Operations Research, Cornell Tech - Cornell University, 2024
+* Graduate Course Work in Machine Learning and Operations Research, Cornell Tech - Cornell University, 2024
 
 Relevant Coursework
 ======
