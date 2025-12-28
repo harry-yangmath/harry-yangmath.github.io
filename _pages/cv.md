@@ -26,12 +26,13 @@ Teaching Statement
 
 Teaching Experience
 ======
-* January 2025 - Present: High School Mathematics Teacher
-* Comp Sci High, Bronx, New York
-* Duties includes: Mathematics Instruction - AP Calculus AB/BC, Pre-Calculus
-* October 2022 - June 2024: Undergraduate Mathematics Tutor
-* University of California, Davis, California
-* Duties included: Tutoring first-year calculus, linear algebra, and differential equations
+* **High School Mathematics Teacher**, January 2025 - Present
+  * Comp Sci High, Bronx, New York
+  * Teach AP Calculus AB/BC and Pre-Calculus
+
+* **Undergraduate Mathematics Tutor**, October 2022 - June 2024
+  * University of California, Davis, California
+  * Tutored first-year calculus, linear algebra, and differential equations
 
 Skills
 ======
