@@ -7,6 +7,7 @@ redirect_from:
   - /resume
 ---
 {% include base_path %}
+
 Education
 ======
 * MS in Mathematics Education, Teachers College-Columbia University (Current Student)
@@ -18,6 +19,10 @@ Relevant Coursework
 * Topics in Geometry and Topology
 * Teaching Applied Mathematics
 * Curriculum and Teaching
+
+Teaching Statement
+======
+[View my full teaching statement]({{ site.baseurl }}/files/Teaching_Statement.pdf)
 
 Teaching Experience
 ======
