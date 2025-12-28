@@ -24,6 +24,11 @@ Teaching Statement
 ======
 [View my full teaching statement]({{ site.baseurl }}/files/Teaching_Statement.pdf)
 
+iversity Statement
+======
+[View my full teaching statement]({{ site.baseurl }}/files/Diversity_Statement.pdf)
+
+
 Teaching Experience
 ======
 * **High School Mathematics Teacher**, January 2025 - Present
