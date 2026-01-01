@@ -28,15 +28,12 @@ redirect_from:
 
 ---
 
-## Teaching Philosophy
-[View my full Teaching Statement]({{ site.baseurl }}/files/Teaching_Statement.pdf)
-
+## Statements / Samples
+[Teaching Statement]({{ site.baseurl }}/files/Teaching_Statement.pdf)
+[Diversity Statement]({{ site.baseurl }}/files/Diversity_Statement.pdf)
+[Sample Syllabus]({{ site.baseurl }}/files/Sample_Syllabus.pdf)
 ---
 
-## Diversity Statement
-[View my full Diversity Statement]({{ site.baseurl }}/files/Diversity_Statement.pdf)
-
----
 
 ## Teaching Experience
 
