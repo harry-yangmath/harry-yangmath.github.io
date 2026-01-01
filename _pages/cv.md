@@ -50,7 +50,7 @@ January 2025 – Present
 *Cornell Tech - Cornell University - New York, NY*  
 Fall 2024 
 - Supported a graduate-level Digital Marketing course in teh Cornell Johnson School MBA program
-- Managed Canvas LMS, assignments, and gradebook
+- Collaborated with faculty to manage Canvas LMS, assignments, and gradebook
 - Assisted students with course logistics and instructional technology
 
 **Undergraduate Mathematics Tutor**  
@@ -74,11 +74,17 @@ October 2022 – June 2024
 
 ---
 
-## Technical Skills
-- Python  
-- Manim (Mathematical Animation Engine)  
-- LaTeX  
-- Instructional Technology for Mathematics  
+## Instructional Technology
+- Canvas LMS (course setup, modules, assignments, gradebook)
+- Manim for animated mathematical explanations
+- LaTeX for instructional materials and assessments
+- Python and Wolfram Mathematica for demonstrations and applied examples
+
+---
+
+## Teaching Development
+- Training in inclusive mathematics pedagogy and curriculum design (Teachers College, Columbia University)
+- Professional development in student-centered and equity-focused instruction
 
 ---
 
