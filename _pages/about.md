@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "👋 🎓 Hello there, I'm Harry Yang"
+title: "Harry Yang's Website"
 author_profile: true
 redirect_from: 
   - /about/

@@ -28,10 +28,11 @@ redirect_from:
 
 ---
 
-## Statements / Samples
-[Teaching Statement]({{ site.baseurl }}/files/Teaching_Statement.pdf)
-[Diversity Statement]({{ site.baseurl }}/files/Diversity_Statement.pdf)
-[Sample Syllabus]({{ site.baseurl }}/files/Sample_Syllabus.pdf)
+## Miscellaneous
+- [Teaching Statement]({{ site.baseurl }}/files/Teaching_Statement.pdf)
+- [Diversity Statement]({{ site.baseurl }}/files/Diversity_Statement.pdf)
+- [Sample Syllabus]({{ site.baseurl }}/files/Sample_Syllabus.pdf)
+- [AP Calculus BC Course Notes](https://github.com/harry-yangmath/AP_Calc_BC).
 ---
 
 
@@ -79,6 +80,6 @@ October 2022 – June 2024
 *Interim President and Vice President* (2023–2024)  
 - Organized and led weekly mathematics club meetings  
 - Planned and facilitated community-facing mathematics outreach events  
-- Lead developer and organizer of the UC Davis Integration Bee  
+- Lead developer and organizer of the [2024 UC Davis Integration Bee](https://github.com/harry-yangmath/UCDavis_int_bee/blob/main/Integration_Bee_Questions_2024.pdf).
 
 ---
