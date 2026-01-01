@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "👋 Hello there, I'm Harry"
+title: "👋 🎓 Hello there, I'm Harry Yang"
 author_profile: true
 redirect_from: 
   - /about/
@@ -32,9 +32,7 @@ I am especially interested in serving at access-oriented institutions where teac
 I am honored to have the privilege to sharing my love of mathematics with you!!
 
 
-
 ## Courses Prepared to Teach
-======
 * Developmental Mathematics
 * College Algebra
 * Precalculus
