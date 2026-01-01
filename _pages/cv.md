@@ -46,6 +46,13 @@ January 2025 – Present
 - Support students with varied academic preparation in college-level mathematics  
 - Emphasize conceptual understanding, persistence, and exam readiness  
 
+**Teaching Assistant (Digital Marketing MBA Course*  
+*Cornell Tech - Cornell University - New York, NY*  
+Fall 2024 
+- Supported a graduate-level Digital Marketing course in teh Cornell Johnson School MBA program
+- Managed Canvas LMS, assignments, and gradebook
+- Assisted students with course logistics and instructional technology
+
 **Undergraduate Mathematics Tutor**  
 *University of California, Davis*  
 October 2022 – June 2024  
