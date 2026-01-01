@@ -6,10 +6,7 @@
 
 main:
   - title: "CV"
-    url: /cv
-
-  - title: "Teaching"
-    url: /teaching/    
+    url: /cv  
     
   - title: "Youtube Channel"
     url: /youtube/
