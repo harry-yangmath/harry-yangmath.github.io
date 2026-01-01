@@ -46,7 +46,7 @@ January 2025 – Present
 - Support students with varied academic preparation in college-level mathematics  
 - Emphasize conceptual understanding, persistence, and exam readiness  
 
-**Teaching Assistant (Digital Marketing MBA Course*  
+**Teaching Assistant (Digital Marketing MBA Course)**  
 *Cornell Tech - Cornell University - New York, NY*  
 Fall 2024 
 - Supported a graduate-level Digital Marketing course in teh Cornell Johnson School MBA program
