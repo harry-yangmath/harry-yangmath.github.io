@@ -10,6 +10,8 @@ redirect_from:
 
 # View my full CV [here]{https://drive.google.com/file/d/1NjkTfRkfPsutXlxDl26P6fE8hL-ngzyw/view?usp=sharing}
 
+---
+
 ## Education
 **Teachers College, Columbia University**  
 *M.S. in Mathematics Education* (Expected 2027)
