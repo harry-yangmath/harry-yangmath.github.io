@@ -22,11 +22,11 @@ Relevant Coursework
 
 Teaching Statement
 ======
-[View my full Teaching statement]({{ site.baseurl }}/files/Teaching_Statement.pdf)
+[View my full Teaching Statement]({{ site.baseurl }}/files/Teaching_Statement.pdf)
 
 iversity Statement
 ======
-[View my full diversity statement]({{ site.baseurl }}/files/Diversity_Statement.pdf)
+[View my full Diversity Statement]({{ site.baseurl }}/files/Diversity_Statement.pdf)
 
 
 Teaching Experience
