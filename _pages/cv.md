@@ -59,7 +59,7 @@ Fall 2024
 **Undergraduate Mathematics Tutor**  
 *University of California, Davis*  
 October 2022 – June 2024  
-- Tutored precalculus, single- and multivariable calculus, linear algebra, and differential equations  
+- Tutored precalculus, single-varaible and multivariable calculus, linear algebra, and differential equations  
 - Supported students in both procedural fluency and conceptual reasoning  
 - Worked with a diverse student population across STEM majors  
 
