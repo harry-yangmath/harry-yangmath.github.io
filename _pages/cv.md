@@ -8,8 +8,6 @@ redirect_from:
 ---
 {% include base_path %}
 
-# View my full CV [here]{https://drive.google.com/file/d/1NjkTfRkfPsutXlxDl26P6fE8hL-ngzyw/view?usp=sharing}
-
 ---
 
 ## Education
@@ -33,6 +31,7 @@ redirect_from:
 ---
 
 ## Miscellaneous
+- [Full Curriculum Vitae]{https://drive.google.com/file/d/1NjkTfRkfPsutXlxDl26P6fE8hL-ngzyw/view?usp=sharing}
 - [Teaching Statement]({{ site.baseurl }}/files/Teaching_Statement.pdf)
 - [Diversity Statement]({{ site.baseurl }}/files/Diversity_Statement.pdf)
 - [Sample Syllabus]({{ site.baseurl }}/files/Sample_Syllabus.pdf)
