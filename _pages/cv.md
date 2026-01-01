@@ -32,7 +32,8 @@ redirect_from:
 - [Teaching Statement]({{ site.baseurl }}/files/Teaching_Statement.pdf)
 - [Diversity Statement]({{ site.baseurl }}/files/Diversity_Statement.pdf)
 - [Sample Syllabus]({{ site.baseurl }}/files/Sample_Syllabus.pdf)
-- [AP Calculus BC Course Notes](https://github.com/harry-yangmath/AP_Calc_BC).
+- [Calculus Sample Notes](https://github.com/harry-yangmath/AP_Calc_BC)
+
 ---
 
 
