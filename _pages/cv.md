@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: "Curriculum Vitae"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -8,47 +8,80 @@ redirect_from:
 ---
 {% include base_path %}
 
-Education
-======
-* MS in Mathematics Education, Teachers College-Columbia University (Current Student)
-* BS in Applied Mathematics, University of California-Davis, 2024
-* Graduate Coursework in Machine Learning and Operations Research, Cornell Tech - Cornell University, 2024
+## Education
+**Teachers College, Columbia University**  
+*M.S. in Mathematics Education* (Expected 2027)
 
-Relevant Coursework
-======
-* Topics in Geometry and Topology
-* Teaching Applied Mathematics
-* Curriculum and Teaching
+**University of California, Davis**  
+*B.S. in Applied Mathematics* (2024)
 
-Teaching Statement
-======
+**Cornell Tech, Cornell University**  
+*Graduate Coursework in Machine Learning and Operations Research* (2024)
+
+---
+
+## Relevant Coursework
+- Topics in Geometry and Topology  
+- Probability and Mathematical Analysis  
+- Teaching Applied Mathematics  
+- Curriculum Design and Mathematics Pedagogy  
+
+---
+
+## Teaching Philosophy
 [View my full Teaching Statement]({{ site.baseurl }}/files/Teaching_Statement.pdf)
 
-iversity Statement
-======
+---
+
+## Diversity Statement
 [View my full Diversity Statement]({{ site.baseurl }}/files/Diversity_Statement.pdf)
 
+---
 
-Teaching Experience
-======
-* **High School Mathematics Teacher**, January 2025 - Present
-  * Comp Sci High, Bronx, New York
-  * Teach AP Calculus AB/BC and Pre-Calculus
+## Teaching Experience
 
-* **Undergraduate Mathematics Tutor**, October 2022 - June 2024
-  * University of California, Davis, California
-  * Tutored first-year calculus, linear algebra, and differential equations
+**High School Mathematics Teacher**  
+*Comp Sci High — Bronx, NY*  
+January 2025 – Present  
+- Teach AP Calculus AB/BC and Precalculus  
+- Support students with varied academic preparation in college-level mathematics  
+- Emphasize conceptual understanding, persistence, and exam readiness  
 
-Skills
-======
-* Programming
-* Python
-* MANIM
-* LaTeX
+**Undergraduate Mathematics Tutor**  
+*University of California, Davis*  
+October 2022 – June 2024  
+- Tutored precalculus, single- and multivariable calculus, linear algebra, and differential equations  
+- Supported students in both procedural fluency and conceptual reasoning  
+- Worked with a diverse student population across STEM majors  
 
-Outreach
-======
-* UC Davis Math Club Interim and Vice President (2023-2024)
-* Organized engaging community mathematics outreach events for the general public.
-* Conducted club meetings
-* Lead developer of the UC Davis Integration Bee
+---
+
+## Courses Prepared to Teach
+- Developmental Mathematics  
+- College Algebra  
+- Precalculus  
+- Single-Variable Calculus  
+- Multivariable Calculus  
+- Linear Algebra  
+- Differential Equations  
+- Introductory Probability / Statistics  
+
+---
+
+## Technical Skills
+- Python  
+- Manim (Mathematical Animation Engine)  
+- LaTeX  
+- Instructional Technology for Mathematics  
+
+---
+
+## Service & Outreach
+
+**UC Davis Math Club**  
+*Interim President and Vice President* (2023–2024)  
+- Organized and led weekly mathematics club meetings  
+- Planned and facilitated community-facing mathematics outreach events  
+- Lead developer and organizer of the UC Davis Integration Bee  
+
+---
