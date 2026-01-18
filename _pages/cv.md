@@ -31,7 +31,7 @@ redirect_from:
 ---
 
 ## Miscellaneous
-- [Full Curriculum Vitae](https://drive.google.com/file/d/1NjkTfRkfPsutXlxDl26P6fE8hL-ngzyw/view?usp=sharing) 
+- [Full Curriculum Vitae](https://drive.google.com/file/d/1mxb_fjP8kdpY7zSKlzR-rkftaN1kj1NN/view?usp=sharing) 
 - [Teaching Statement]({{ site.baseurl }}/files/Teaching_Statement.pdf)
 - [Diversity Statement]({{ site.baseurl }}/files/Diversity_Statement.pdf)
 - [Sample Syllabus]({{ site.baseurl }}/files/Sample_Syllabus.pdf)
