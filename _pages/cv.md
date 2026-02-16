@@ -74,7 +74,7 @@ October 2022 – June 2024
 
 ---
 ## Professional Service
-** AP Calculus BC Reader, College Board **
+**AP Calculus BC Reader, College Board**
 *June 2026*
 - Socre AP Calculus AB and BC free-response questions as part of the national AP Reading
 - Collaborated with educators nationwide to ensure consistent and standards-aligned evaluation
