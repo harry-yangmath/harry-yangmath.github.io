@@ -42,6 +42,15 @@ redirect_from:
 
 ## Teaching Experience
 
+<!-- 
+**New York City College of Technology, CUNY**
+*Adjunct Instructor, Department of Mathematics*
+- Serve as Instructor of Record for undergraduate mathematics courses including _____
+- Develop course syllabi, lesson plans, and instructional materials consistent with CUNY curricular standards and departmental assessment frameworks.
+- Design and grade exams, quizzes, and projects to evaluate procedural fluency, conceptual understanding, and quantitative reasoning skills.
+-->
+
+
 **High School Mathematics Teacher**  
 *Comp Sci High — Bronx, NY*  
 January 2025 – Present  
