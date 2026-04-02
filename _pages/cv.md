@@ -79,6 +79,7 @@ October 2022 – June 2024
 - Socre AP Calculus AB and BC free-response questions as part of the national AP Reading
 - Collaborated with educators nationwide to ensure consistent and standards-aligned evaluation
 - Calibrated scoring using official rubrics and benchmark papers
+
 ---
 ## Courses Prepared to Teach
 - Developmental Mathematics  
