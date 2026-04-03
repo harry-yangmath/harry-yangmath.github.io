@@ -53,7 +53,7 @@ redirect_from:
 
 **High School Mathematics Teacher**  
 *Comp Sci High — Bronx, NY*  
-January 2025 – Present  
+January 2025 – June 2026  
 - Teach AP Calculus AB/BC and Precalculus  
 - Support students with varied academic preparation in college-level mathematics  
 - Emphasize conceptual understanding, persistence, and exam readiness  
