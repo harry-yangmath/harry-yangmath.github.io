@@ -92,7 +92,6 @@ October 2022 – June 2024
 - Introductory Probability / Statistics  
 
 ---
-
 ## Instructional Technology
 - Canvas LMS (course setup, modules, assignments, gradebook)
 - Manim for animated mathematical explanations
@@ -100,13 +99,11 @@ October 2022 – June 2024
 - Python and Wolfram Mathematica for demonstrations and applied examples
 
 ---
-
 ## Teaching Development
 - Training in inclusive mathematics pedagogy and curriculum design (Teachers College, Columbia University)
 - Professional development in student-centered and equity-focused instruction
 
 ---
-
 ## Service & Outreach
 
 **UC Davis Math Club**  
