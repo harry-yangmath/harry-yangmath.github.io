@@ -55,7 +55,7 @@ redirect_from:
 
 
 **High School Mathematics Teacher**  
-*Comp Sci High — Bronx, NY*  
+*Urban Assembly Charter High School for Computer Science — Bronx, NY*  
 January 2025 – June 2026  
 - Taught AP Calculus AB/BC and Precalculus  
 - Supported students with varied academic preparation in college-level mathematics  
