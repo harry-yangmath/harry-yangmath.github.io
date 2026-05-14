@@ -36,8 +36,7 @@ I am honored to have the privilege to sharing my love of mathematics with you!!
 * Developmental Mathematics
 * College Algebra
 * Precalculus
-* Single-Variable Calculus
+* Single-variable Calculus
 * Multivariable Calculus
 * Linear Algebra
 * Differential Equations
-* Introductory Statistics / Probability
