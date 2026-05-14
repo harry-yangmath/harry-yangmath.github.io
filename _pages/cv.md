@@ -27,6 +27,9 @@ redirect_from:
 - Probability and Mathematical Analysis  
 - Teaching Applied Mathematics  
 - Curriculum Design and Mathematics Pedagogy  
+- Real and Complex Analysis
+- Finite Mathematics
+- Mathematical Modeling
 
 ---
 
@@ -54,14 +57,14 @@ redirect_from:
 **High School Mathematics Teacher**  
 *Comp Sci High — Bronx, NY*  
 January 2025 – June 2026  
-- Teach AP Calculus AB/BC and Precalculus  
-- Support students with varied academic preparation in college-level mathematics  
-- Emphasize conceptual understanding, persistence, and exam readiness  
+- Taught AP Calculus AB/BC and Precalculus  
+- Supported students with varied academic preparation in college-level mathematics  
+- Emphasized conceptual understanding, persistence, and exam readiness  
 
 **Teaching Assistant (Digital Marketing MBA Course)**  
 *Cornell Tech - Cornell University - New York, NY*  
 Fall 2024 
-- Supported a graduate-level Digital Marketing course in teh Cornell Johnson School MBA program
+- Supported a graduate-level Digital Marketing course in the Cornell Johnson School MBA program
 - Collaborated with faculty to manage Canvas LMS, assignments, and gradebook
 - Assisted students with course logistics and instructional technology
 
@@ -89,7 +92,6 @@ October 2022 – June 2024
 - Multivariable Calculus  
 - Linear Algebra  
 - Differential Equations  
-- Introductory Probability / Statistics  
 
 ---
 ## Instructional Technology
