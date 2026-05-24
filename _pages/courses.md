@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "Courses Taught"
-permalink: /cv/
+permalink: /courses/
 author_profile: true
 redirect_from:
   - /resume

@@ -11,6 +11,10 @@ main:
   - title: "Youtube Channel"
     url: /youtube/
 
+  - title: "Courses Taught"
+    url: /Courses/
+
+
   - title: "Miscellaneous"
     url: /misc/
         
