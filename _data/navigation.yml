@@ -7,12 +7,12 @@
 main:
   - title: "CV"
     url: /cv  
-    
-  - title: "Youtube Channel"
-    url: /youtube/
 
   - title: "Courses Taught"
     url: /courses/
+    
+  - title: "Youtube Channel"
+    url: /youtube/
 
   - title: "Miscellaneous"
     url: /misc/
