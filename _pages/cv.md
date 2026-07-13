@@ -34,7 +34,7 @@ redirect_from:
 ---
 
 ## Miscellaneous
-- [Full Curriculum Vitae](https://drive.google.com/file/d/1mxb_fjP8kdpY7zSKlzR-rkftaN1kj1NN/view?usp=sharing) 
+- [Full Curriculum Vitae](https://drive.google.com/file/d/15GxI5NIqDhGZdQS-tQWHrItDkkDeCrmT/view?usp=sharing) 
 - [Teaching Statement]({{ site.baseurl }}/files/Teaching_Statement.pdf)
 - [Diversity Statement]({{ site.baseurl }}/files/Diversity_Statement.pdf)
 - [Sample Syllabus]({{ site.baseurl }}/files/Sample_Syllabus.pdf)
@@ -45,13 +45,14 @@ redirect_from:
 
 ## Teaching Experience
 
-<!-- 
-**New York City College of Technology, CUNY**
-*Adjunct Instructor, Department of Mathematics*
-- Serve as Instructor of Record for undergraduate mathematics courses including _____
+
+**Hunter College, City University of New York**
+*Adjunct Lecturer, Department of Mathematics & Statistics - New York, NY*
+August 2026 - Present
+- Serve as Instructor of Record for undergraduate mathematics courses including MATH 12550 (Precalculus)
 - Develop course syllabi, lesson plans, and instructional materials consistent with CUNY curricular standards and departmental assessment frameworks.
-- Design and grade exams, quizzes, and projects to evaluate procedural fluency, conceptual understanding, and quantitative reasoning skills.
--->
+- Design and grade exams and quizzes to evaluate procedural fluency, conceptual understanding, and quantitative reasoning skills.
+
 
 
 **High School Mathematics Teacher**  
