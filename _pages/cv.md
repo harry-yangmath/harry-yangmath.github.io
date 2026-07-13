@@ -46,9 +46,9 @@ redirect_from:
 ## Teaching Experience
 
 
-**Hunter College, City University of New York**
-*Adjunct Lecturer, Department of Mathematics & Statistics - New York, NY*
-August 2026 - Present
+**Hunter College, City University of New York**  
+*Adjunct Lecturer, Department of Mathematics & Statistics – New York, NY*  
+August 2026 – Present  
 - Serve as Instructor of Record for undergraduate mathematics courses including MATH 12550 (Precalculus)
 - Develop course syllabi, lesson plans, and instructional materials consistent with CUNY curricular standards and departmental assessment frameworks.
 - Design and grade exams and quizzes to evaluate procedural fluency, conceptual understanding, and quantitative reasoning skills.
