@@ -6,7 +6,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am a Master of Science student in Mathematics Education at Teachers College, Columbia University.
+I am an Adjunct Lecturer of Mathematics at Hunter College & Borough of Manhattan Community College and a Master of Science student in Mathematics Education at Teachers College, Columbia University.
 ---
 ## About Me
 
